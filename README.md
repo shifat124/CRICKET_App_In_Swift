@@ -9,3 +9,4 @@ An iOS app which was a final project of my training period in BJIT using API int
 
 
 
+![Upcome Details View](https://user-images.githubusercontent.com/69003347/222795230-8ded18f6-d12d-4ecd-be69-371454e88f23.png)
