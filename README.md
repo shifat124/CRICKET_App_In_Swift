@@ -8,8 +8,10 @@ An iOS app which was a final project of my training period in BJIT using API int
 
 <img width="325" alt="2 Details page" src="https://user-images.githubusercontent.com/69003347/222795230-8ded18f6-d12d-4ecd-be69-371454e88f23.png">
 
+<img width="325" alt="2 Details page" src="https://user-images.githubusercontent.com/69003347/222875279-032f1998-0a9d-400c-a15c-155bc2b95e37.png">
 
 
 
 
-![Fixture View](https://user-images.githubusercontent.com/69003347/222875279-032f1998-0a9d-400c-a15c-155bc2b95e37.png)
+
+
