@@ -12,3 +12,4 @@ An iOS app which was a final project of my training period in BJIT using API int
 
 
 
+![Fixture View](https://user-images.githubusercontent.com/69003347/222875279-032f1998-0a9d-400c-a15c-155bc2b95e37.png)
