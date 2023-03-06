@@ -16,6 +16,9 @@ An iOS app using MVVM Design Pattern which was a final project of my training pe
 
 <img width="325" alt="2 Details page" src="https://user-images.githubusercontent.com/69003347/223205744-e21bb4d2-5a66-4243-8269-cd86dbead406.png">
 
+<img width="325" alt="2 Details page" src="https://user-images.githubusercontent.com/69003347/223207456-e68606e7-8fcf-492c-938c-1a3e7051b8b4.png">
+
+
 
 
 
