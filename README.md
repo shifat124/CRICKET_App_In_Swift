@@ -1,5 +1,5 @@
 # CRICKET_App_In_Swift
-An iOS app using MVVM Design Pattern which was a final project of my training period in BJIT using Swift, XCode, API integration, UIKIT, CoreData, Timer and a lot of other things.
+An iOS app using MVVM Design Pattern which was a final project of my training period in BJIT using Swift, XCode, API integration, UIKIT, Core Data, Timer and a lot of other things.
 
 
 <img width="325" alt="2 Details page" src="https://user-images.githubusercontent.com/69003347/222793761-b9c82472-673d-4fe3-aaa5-ee7adba1b392.png">
