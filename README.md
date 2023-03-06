@@ -15,3 +15,4 @@ An iOS app using MVVM Design Pattern which was a final project of my training pe
 
 
 
+![Scoreboard View](https://user-images.githubusercontent.com/69003347/223205429-897f63a1-cfba-4f1b-a30d-200ce5fc7c1e.png)
